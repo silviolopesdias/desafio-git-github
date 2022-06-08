@@ -8,6 +8,7 @@ Primeiro repositório desafio Dio
 * Primeiro comandos com Git
 * Ciclo de vida dos arquivos no Git
 * Introdução ao GitHub
+* Configurando chave ssh e token
 * Resolvendo conflitos
 
 
