@@ -2,11 +2,14 @@ Comandos iniciais Git:
 
 * Git init : iniciar um Repositório;
 * Git status: verificar as condicões do repositório;
-* Git clone: vlonar um repositório na nuvem(gitHub), para a maquina local;
+* Git clone: clonar um repositório na nuvem(gitHub), para a maquina local;
 * Git add . : adicionar alteraçoes realizadas no repositório para ser comitadas;
 * Git commit -m : tirar uma foto das alterações(fixa-las);
 * Git push: enviar as alterações para o servidor na nuvem(gitHub);
 * Git pull: trazer as alterações realizadas na nuvem para sua maquina local.
+* Git config --global user.email""
+* Git config --global user.name""
+* Git config --list
 
 
 Link para downoload Git : https://git-scm.com/
